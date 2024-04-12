@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Francisco Santos, im from Portugal, Aveiro.
 - 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on a internship
 - 📫 I can get reached by mail or by PM
 
 <!---
