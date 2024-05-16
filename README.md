@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Francisco Santos, im from Portugal, Aveiro.
-- 👀 I’m interested in Computer Science.
-- 📫 I can get reached by mail or by PM
+👋 Hello, I'm Francisco Santos!
 
-<!---
-chicosantos2000/chicosantos2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I'm currently working as a Network Engineer mostly focused in Automation and Development of tools related with networks.
+
+💻 I'm passionate about technology and cars!
+
+🌱 Currently learning and improving my NetDevOps skillsets, specially Pipelines!
+
+📫 How to reach me: Feel free to connect with me on Linkedin and shoot me a message
+
+🔗 Check out my work: [Link to your portfolio, website, or relevant projects]
+
+📚 Always open to collaboration and learn new things!
+
